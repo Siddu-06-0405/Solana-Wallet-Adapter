@@ -108,7 +108,7 @@ Visit [http://localhost:5173](http://localhost:5173) (or as directed by Vite) to
 ## 📝 Customization & Deployment
 
 - Easily theme with Tailwind classes or add more wallet adapters.
-- Deploy with [Lovable](https://lovable.dev) or any Vercel/Netlify/VPS using standard React build steps.
+- Deploy with Vercel/Netlify/DigitalOcean VPS using standard React build steps.
 - Connect your custom domain for production.
 
 ---
