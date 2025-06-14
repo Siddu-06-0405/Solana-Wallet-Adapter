@@ -15,7 +15,7 @@ import { SendTokens } from '../components/SendTokens';
 import { SignMessage } from '../components/SignMessage';
 import { ShowSolBalance } from '../components/ShowSolBalance';
 
-const GITHUB_URL = "https://github.com/your-source-code-repository";
+const GITHUB_URL = "https://github.com/Siddu-06-0405/Solana-Wallet-Adapter";
 
 const Index = () => {
   const network = WalletAdapterNetwork.Devnet;
